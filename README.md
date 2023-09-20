@@ -1,0 +1,2 @@
+# codsoft_taskno.1
+This is GUI based To-Do list application. The user can add tasks and delete the tasks. The added tasks are saved in file so when the user opens the application again, the saved tasks are retrieved from file. Additionally, if the user clicks the "Add Task" or "Delete" button without entering and selecting a task, then a dialogue box will appear to show a warning message to the user.
