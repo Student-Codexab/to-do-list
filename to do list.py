@@ -58,3 +58,4 @@ load_tasks_from_file()
 
 # Run the main event loop
 root.mainloop()
+print("Hello world")
